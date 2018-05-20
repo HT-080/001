@@ -1,0 +1,13 @@
+.ha{
+   text-align:center;
+   background-color:red;
+
+}
+.ha>div{
+width:31%;
+padding-top:31%;
+float:left;
+margin:1%;
+border-radius:10%;
+background-color:orange;
+}
